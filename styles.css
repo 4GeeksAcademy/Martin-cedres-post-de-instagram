@@ -1,0 +1,63 @@
+.post {
+    border: 1px solid black;
+    border-color: black;
+    width: 400px;
+    height: 500px;  
+    }
+
+.post-header {
+    width: 400px;
+    height: 50px;
+}
+.mi-imagen {
+    width: 400px;
+    height: 300px;
+}
+
+.post-imagen {
+    width: 400px;
+    height: 300px;     
+}
+
+.post-body {
+
+}
+
+.post-iconos {
+    width: 400px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+.fa-brands {
+    display:flex;
+    font-size: 30px;
+    margin-top: 7px;
+    margin-left: 5px;
+    
+}
+.fa-ellipsis-vertical {
+    display: flex;
+    font-size: 30px;
+    margin-inline: 380px;
+    margin-top: -25px;
+}
+.fa-regular {
+    font-size: 25px;
+}
+.fa-bookmark {
+    display: flex;
+    margin-inline: 370px;
+    margin-top: -6%;
+}
+.texto {
+    margin-top: -30px;
+    margin-left: 35px;
+}
+.texto1 {
+    margin-left: 5px;
+}
+.texto2 {
+    margin: 5px;
+}
